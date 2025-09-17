@@ -1,4 +1,4 @@
-# Hi there, I'm Asih Della Sastini 👋
+# Hi there, I'm Asih Della Saftini 👋
 
 🎓 **Informatics Engineering Student** | Universitas Asahan  
 💡 Passionate about **Expert Systems, Data Science, and Web Development**  
@@ -42,8 +42,8 @@
 ---
 
 ## 🌐 Connect with Me
-- 📧 Email: [your-email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin]  
+- 📧 Email: [dellasama1000@gmail.com]  
+- 💼 LinkedIn: [linkedin.com/in/asih-della-saftini]  
 - 📝 Portfolio (coming soon...)  
 
 ---
